@@ -1,5 +1,3 @@
-# Dataset Distillation via Adversarial Prediction Matching
-
 ## Setting Up the Environment
 
 1. Begin by creating a Conda virtual environment using the following command:
